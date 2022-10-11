@@ -1,8 +1,5 @@
 **0x03-shell variables and expansions**
 
-#!/bin/bash comes first before all commands 
-and remeber to execute all files (chmod u+x filename)
-
 0-alias - a script that creates an alias.
 		Name: ls
 		Value: rm *
